@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá, me chamo Emerson Mota!😀
 
-<!--
-**Emergbr/emergbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//https://www.linkedin.com/in/emerson-mota-a02095179/)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571996493757?text=Ol%C3%A1%2C+Emerson.)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson.gsm/)
 
-Here are some ideas to get you started:
+![Emerson Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=Emergbr&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que mais utilizo no meu dia-a-dia
+
+<div>
+<img align=center src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+<img align=center src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<img align=center src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit" alt="CSS">
+</div>
+
+<br>
+
+# Um pouco mais sobre mim
+
+<p>
+ Sou um desenvolvedor focado na área web, possuindo conhecimento em HTML, JavaScript e CSS. Ademais, possuo conhecimento no sistema de versionamento. 
+
+ Encontro-me em constante evolução, meus conhecimentos estão sendo adquiridos e consolidados precipuamente pela graduação de Análise de Desenvolvimento de Sistemas, curso web Full Stack da @labenu, bootcamps, bem como cursos avulsos e outras metodologias de aprendizado.
+
+ Nunca atuei diretamente na área de programação, entretanto, faço Freelancer de Landing pages simples, bem como projetos pessoais.
+
+ Atualmente busco a inserção no mercado de T.I, sendo pessoa desenvolvedora Junior ou Estagiário.
+</p>
