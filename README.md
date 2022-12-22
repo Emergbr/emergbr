@@ -19,11 +19,11 @@
 # Um pouco mais sobre mim
 
 <p>
- Sou um desenvolvedor focado na área web, possuindo conhecimento em HTML, JavaScript e CSS. Ademais, possuo conhecimento no sistema de versionamento. 
+ Sou um desenvolvedor focado na área web, possuindo conhecimento em HTML, JavaScript e CSS.
 
- Encontro-me em constante evolução, meus conhecimentos estão sendo adquiridos e consolidados precipuamente pela graduação de Análise de Desenvolvimento de Sistemas, curso web Full Stack da @labenu, bootcamps, bem como cursos avulsos e outras metodologias de aprendizado.
+ Encontro-me em constante evolução, meus conhecimentos estão sendo adquiridos e consolidados precipuamente pela graduação de Análise de Desenvolvimento de Sistemas na universidade Estácio de Sá, no curso web Full Stack da @labenu, bootcamps da DIO, bem como cursos avulsos e outras metodologias de aprendizado.
 
- Nunca atuei diretamente na área de programação, entretanto, faço Freelancer de Landing pages simples, bem como projetos pessoais.
+ Infelizmente ainda não atuei diretamente na área de programação, entretanto, faço Freelancer de Landing pages simples, bem como projetos pessoais.
 
  Atualmente busco a inserção no mercado de T.I, sendo pessoa desenvolvedora Junior ou Estagiário.
 </p>
